@@ -154,11 +154,5 @@
             </plugins>
         </pluginManagement>
     </build>
-<systemProperties>
-    <property>
-        <name>allure.results.directory</name>
-        <value>./target/allure-results</value>
-    </property>
-</systemProperties>
 
 </project>
